@@ -1,0 +1,3 @@
+[submodule "README.md"]
+	path = README.md
+	url = git://github.com/JulijaTarvide-9/versiju-controle.git
